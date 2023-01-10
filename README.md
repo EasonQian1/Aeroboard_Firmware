@@ -3,14 +3,16 @@
 Aeroboard full series firmware supports Vial, you can directly use Vial to
 view/modify the default key positions. Please use the Vial web version to
 modify directly (Chrome browser is recommended, other browsers may have
-problems):https://vial.rocks/
+problems):https://vial.rocks/ 
+![image](https://user-images.githubusercontent.com/98533237/211576792-c94fa5b0-f6d0-46c6-b3fd-60864842ea7e.png)
+
 If the web version cannot be used, you can download the software to use it, the download link:https://get.vial.today/download
 # VIA
 Aeroboard full series firmware supports Via, you can directly use Via to
-view/modify the default key positions. Note: Arc60 can open the latest via or web version and use
-arc60h/arc60a/arc60s directly, but you need to import Json files to use it. Please use the Via web version to modify directly (Chrome browser is
-recommended, other browsers may have problems):VIA: https://usevia.app/
+view/modify the default key positions.VIA: https://usevia.app/
 If the web version cannot be used, you can download the software to use it, the download link:https://github.com/the-via/releases/releases/tag/v2.0.5
+![image](https://user-images.githubusercontent.com/98533237/211577052-077daf35-c07b-41f2-935f-011344a431a5.png)
+
 # UPDATE STEPS
 Press and hold Eason to plug in the data cable or use the shortcut key (Reset)
 to enter the flashing mode to enter the flashing mode, a U disk called
