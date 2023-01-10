@@ -22,6 +22,6 @@ Eason-Ab70 will appear on your computer, copy the firmware file into it, and the
 # Download the latest firmware
 Press and hold ESC to plug in the data cable or use the shortcut key (Reset) to enter the
 flash mode, a U disk called Eason-Ab70 will appear on your computer, and open it.
-![1672845537125](https://user-images.githubusercontent.com/98533237/210587993-dd892a0b-0a4a-4af2-acbf-0d9cd32759ca.jpg)
+![image](https://user-images.githubusercontent.com/98533237/211576451-122dd637-0db4-45ab-b440-b160499eabc6.png)
 Open the FIRMWARE webpage and you will see the latest Aeroboard firmware, download it
 and follow the steps to update.
