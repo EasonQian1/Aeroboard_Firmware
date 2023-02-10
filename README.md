@@ -14,13 +14,10 @@ If the web version cannot be used, you can download the software to use it, the 
 ![image](https://user-images.githubusercontent.com/98533237/211577052-077daf35-c07b-41f2-935f-011344a431a5.png)
 
 # UPDATE STEPS
-Press and hold Eason to plug in the data cable or use the shortcut key (Reset)
-to enter the flashing mode to enter the flashing mode, a U disk called
-Eason-Ab70 will appear on your computer, copy the firmware file into it, and the keyboard will automatically refresh, that is, the flashing is complete.
+Enter the flash mode, one is called U disk
+Eason-Ab70 will appear on the computer, copy the firmware file into it, and the keyboard will automatically refresh, that is, the flashing is complete.
 # How to enter the flash mod
-1. Press and hold ESC to plug in the data cable
-2. FN+ENTER 
-3. Press the button on the back of the PCB twice
+Press the button on the back of the PCB twice
 # Download the latest firmware
 Press and hold ESC to plug in the data cable or use the shortcut key (Reset) to enter the
 flash mode, a U disk called Eason-Ab70 will appear on your computer, and open it.
